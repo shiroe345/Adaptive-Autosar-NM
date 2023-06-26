@@ -1,4 +1,4 @@
-# Index
+# Reference here
 ## Network Management (NM)
 ### Concepts and behavior
 - [ara::nm](https://hackmd.io/@NCKU-autosar/ByRW93zfj) -- SeanPai
@@ -19,9 +19,3 @@
 - [StateManagement](https://hackmd.io/@NCKU-autosar/r1aIHl1fi) -- Smile
 ### Execution Management (EM)
 - [Execution Management](https://hackmd.io/@NCKU-autosar/HylzT8Ars) -- Smile
-## Contact
-- 張邑 (secminhr): email: secminhrian@gmail.com
-- 白翔云 (SeanPai): email: seanpai96@gmail.com
-- 陳宥橋 (Smile) : email : chenforwork1368@gmail.com
-- 李承哲 (shiroe): email : 
-gq4575@gmail.com
